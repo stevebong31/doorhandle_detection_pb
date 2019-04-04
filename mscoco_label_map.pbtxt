@@ -1,15 +1,15 @@
 item {
-    name: "room1"
+    name: "meeting_room"
     id: 1
-    display_name: "room1"
+    display_name: "meeting_room"
 }
 item {
-    name: "room2"
+    name: "office_room1"
     id: 2
-    display_name: "room2"
+    display_name: "office_room1"
 }
 item {
-    name: "room3"
+    name: "office_room2"
     id: 3
-    display_name: "room3"
+    display_name: "office_room2"
 }

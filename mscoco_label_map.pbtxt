@@ -1,0 +1,15 @@
+item {
+    name: "room1"
+    id: 1
+    display_name: "room1"
+}
+item {
+    name: "room2"
+    id: 2
+    display_name: "room2"
+}
+item {
+    name: "room3"
+    id: 3
+    display_name: "room3"
+}
